@@ -1,0 +1,61 @@
+.pageBody {min-height: 100vh;
+	width: 100vw;}
+
+.header {height: 7vh;
+	background-color: #5284BB;}
+.headerLogoTd {width: 15vw;}
+.headerLogoImg {height: 5vh;}
+.headerSearch {width: 70vw;}
+
+.sidebar {width: 15vw;
+vertical-align: top;
+padding-left: 10px;}
+.sidebarHr {width: 13vw;}
+.sidebarSettings{position: absolute;
+	bottom: 45px;}
+
+
+.content {vertical-align: top;}
+
+.contentMyAccauntAvatar {height: 33vh;
+	width: 13vw;}
+.contentMyAccauntAboutMe {vertical-align: top;
+	padding-top: 10px;}
+.contentMyAccauntAboutMeText {width: 65vw;}
+.contentMyAccauntInfo {width: 20vw;}
+.contentMyAccauntDetailInfo {width: 45vw;}
+.contentMyAccauntButtonForChange {text-align: right;}
+
+.hiddenbutton {width: 7.7vw;}
+.hiddenbuttonSpan {padding-left: 0.7vw;}
+
+.contentMyFriendImg {padding-left: 20px;
+	padding-top: 10px;
+	width: 7vw;}
+.contentMyFriendText {padding-left: 20px;
+	width: 20vw;}
+
+.contentMessage {width: 10vw;}
+.contentMyMessageImg {padding-left: 20px;
+	padding-top: 10px;
+	width: 4vw;}
+.contentMyMessageUsers {min-height: 70vh;}
+.contentMyMessageUser {vertical-align: top;}
+.contentMyMessageSendImg {padding-left: 20px;
+	padding-top: 10px;
+	width: 2vw;}
+.contentMessageTexts {vertical-align: top;
+padding-left: 20px;}
+.contentMessageText {width: 70vw;}
+.contentMessageSend {min-height: 4vh;
+	width: 78.1vw;}
+
+.globalMedia {width: 80vw;}
+.globalImg {width: 18vw;
+	height: 30vh;
+	margin: 5px;}
+.globalAudio {width: 75vw;
+height: 5vh;}
+
+
+.footer {height: 3vh;}
